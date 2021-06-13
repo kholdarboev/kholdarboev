@@ -6,13 +6,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, swimming and going to gym
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
 ### Connect with me:
 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/4QRUxt16srvkyh7W08g3Wk)
-
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/4QRUxt16srvkyh7W08g3Wk)
+ -->
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
