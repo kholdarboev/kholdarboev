@@ -57,7 +57,7 @@
  </p>
  
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralvescosta&layout=compact" alt="languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact" alt="languages"/>
  </p>
 
 
@@ -69,7 +69,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="kholdarboev's GitHub Stats" src="https://github-readme-stats.kholdarboev.vercel.app/api?username=kholdarboev&show_icons=true&hide_border=true" />
 
 </details>
 
