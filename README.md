@@ -45,26 +45,29 @@
  
  <details>
   <summary>:zap: Recent GitHub Activity</summary>
+ 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/mukhtorov/orderfood/tree/home) in [uzFood e-commerce mainPage](https://github.com/mukhtorov/orderfood/tree/home)
-3. 🗣 Commented on [#17](https://github.com/mukhtorov/orderfood/tree/tagSidebar) in [sideBar completed](https://github.com/mukhtorov/orderfood/tree/tagSidebar)
-4. 🗣 Commented on [#11](https://github.com/mukhtorov/orderfood) in [uzFood e-commerce](https://github.com/mukhtorov/orderfood)
-5. ❌ Closed PR [#1](https://github.com/mukhtorov/wbba_web) in [Web-Brain Academy Ant Design](https://github.com/mukhtorov/wbba_web)
+2. 🎉 Merged PR [#1](https://github.com/mukhtorov/orderfood/tree/home) in [uzFoode-commerce/mainPage](https://github.com/mukhtorov/orderfood/tree/home)
+3. 🗣 Commented on [#17](https://github.com/mukhtorov/orderfood/tree/tagSidebar) in [sideBar-completed](https://github.com/mukhtorov/orderfood/tree/tagSidebar)
+4. 🗣 Commented on [#11](https://github.com/mukhtorov/orderfood) in [uzFood/e-commerce](https://github.com/mukhtorov/orderfood)
+5. ❌ Closed PR [#1](https://github.com/mukhtorov/wbba_web) in [Web-Brain_Academy/Ant-Design](https://github.com/mukhtorov/wbba_web)
 <!--END_SECTION:activity-->
+ 
+ 
 </details>
 
 
 <br>
 
-<!--  <p align="center">
+ <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=kholdarboev&show_icons=true&include_all_commits=true&count_private=true" alt="kholdarboev"/> 
  </p>
  
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact" alt="languages"/>
  </p>
- -->
+
 
 
 
