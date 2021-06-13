@@ -45,7 +45,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 2. 🎉 Merged PR [#1](https://github.com/mukhtorov/orderfood/tree/home) in [uzFood e-commerce mainPage](https://github.com/mukhtorov/orderfood/tree/home)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#17](https://github.com/mukhtorov/orderfood/tree/tagSidebar) in [sideBar completed](https://github.com/mukhtorov/orderfood/tree/tagSidebar)
 4. 🗣 Commented on [#11](https://github.com/mukhtorov/orderfood) in [uzFood e-commerce](https://github.com/mukhtorov/orderfood)
 5. ❌ Closed PR [#1](https://github.com/mukhtorov/wbba_web) in [Web-Brain Academy Ant Design](https://github.com/mukhtorov/wbba_web)
 
