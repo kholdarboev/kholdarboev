@@ -49,6 +49,7 @@
 3. 🗣 Commented on [#17](https://github.com/mukhtorov/orderfood/tree/tagSidebar) in [sideBar completed](https://github.com/mukhtorov/orderfood/tree/tagSidebar)
 4. 🗣 Commented on [#11](https://github.com/mukhtorov/orderfood) in [uzFood e-commerce](https://github.com/mukhtorov/orderfood)
 5. ❌ Closed PR [#1](https://github.com/mukhtorov/wbba_web) in [Web-Brain Academy Ant Design](https://github.com/mukhtorov/wbba_web)
+<!--END_SECTION:activity-->
 </details>
 
 
@@ -64,7 +65,6 @@
 
 
 
-<!--END_SECTION:activity-->
 
 
 <details>
