@@ -34,14 +34,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
-<br />
-<br />
+
 <img align="left" alt="Terminal" width="66px" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
-[![ReactJs](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)]
-[![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)]
+<img align="left" alt="Terminal" width="66px" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"/>
+
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
+<br />
+<br />
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
