@@ -1,6 +1,7 @@
 ### Hi there, I'm Sardorbek 👋
 
-## React Front-end developer!! <img align="left" alt="portfolio" width="50px" src="https://raw.githubusercontent.com/frcihan/frcihan/main/animation_500_kd7ngokt.gif"/>
+## React Front-end developer!! 
+<img align="left" alt="react" width="60px" src="https://raw.githubusercontent.com/frcihan/frcihan/main/animation_500_kd7ngokt.gif"/>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
