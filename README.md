@@ -3,7 +3,7 @@
 ## React Front-end developer!!  <img align="left" alt="react" width="45px" src="https://raw.githubusercontent.com/frcihan/frcihan/main/animation_500_kd7ngokt.gif"/> 
 
 - 🌱 I’m currently learning React Native && Node.js && Next.js
-- 👯 I’m looking to collaborate with other content creators
+- 👨‍💻 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, swimming and going to gym
 
