@@ -60,7 +60,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact" alt="languages"/>
  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev)](https://github.com/kholdarboev/github-readme-stats)
 
 
 <!--END_SECTION:activity-->
