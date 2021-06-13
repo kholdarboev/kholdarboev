@@ -36,8 +36,8 @@
 
 <br />
 <br />
-![ReactJs](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+[![ReactJs](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)]
+[![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)]
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
