@@ -40,6 +40,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 <br />
 <br />
+
+ ---
  
  <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -55,14 +57,14 @@
 
 <br>
 
- <p align="center">
+<!--  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=kholdarboev&show_icons=true&include_all_commits=true&count_private=true" alt="kholdarboev"/> 
  </p>
  
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact" alt="languages"/>
  </p>
-
+ -->
 
 
 
