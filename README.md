@@ -6,12 +6,12 @@
 - 👨‍💻 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to travel, swimming and going to gym
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ### Spotify Playing 🎧 
 
 ### Connect with me:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="300" />](https://open.spotify.com/playlist/4QRUxt16srvkyh7W08g3Wk)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ### Connect with me:
 
