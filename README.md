@@ -1,4 +1,4 @@
-### Hi there, I'm Sardorbek 👋
+### Hi there, I'm Sardorbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## React Front-end developer!!  <img align="left" alt="react" width="45px" src="https://raw.githubusercontent.com/frcihan/frcihan/main/animation_500_kd7ngokt.gif"/> 
 
