@@ -1,7 +1,7 @@
 ### Hi there, I'm Sardorbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"">
 
-## React Front-end developer!! 
-<img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
+## React Front-end developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
+
 
 - 🌱 I’m currently learning React Native && Node.js && Next.js
 - 👨‍💻 I’m looking to collaborate with other content creators
