@@ -79,7 +79,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kholdarboev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kholdarboev&show_icons=true&hide_border=true" />
+  <img align="left" alt="kholdarboev's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
 
 </details>
 
