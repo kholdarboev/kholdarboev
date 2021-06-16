@@ -80,7 +80,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kholdarboev's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
+  <img align="left" color="black" alt="kholdarboev's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
   <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 </details>
 
