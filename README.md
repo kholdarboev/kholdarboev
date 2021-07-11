@@ -50,7 +50,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+1. 🗣 CodeReviewd on [#99](https://github.com/kholdarboev/houzing/pull/99) in [https://github.com/kholdarboev/houzing)
 2. 🎉 Merged PR [#1](https://github.com/mukhtorov/orderfood/tree/home) in [uzFoode-commerce/mainPage](https://github.com/mukhtorov/orderfood/tree/home)
 3. 🗣 Commented on [#17](https://github.com/mukhtorov/orderfood/tree/tagSidebar) in [sideBar-completed](https://github.com/mukhtorov/orderfood/tree/tagSidebar)
 4. 🗣 Commented on [#11](https://github.com/mukhtorov/orderfood) in [uzFood/e-commerce](https://github.com/mukhtorov/orderfood)
