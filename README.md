@@ -84,6 +84,6 @@
   <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 </details>
 
-[website]: https://kholdarboev.netlify.app/home {:target="_blank"}
+[website]: (https://kholdarboev.netlify.app/home){:target="_blank" rel="noopener"}
 [instagram]: https://www.instagram.com/andijan_07/  
 [linkedin]: https://linkedin.com/in/kholdarboev
