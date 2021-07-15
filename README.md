@@ -19,7 +19,7 @@
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" {:target="_blank" rel="noopener"} />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />][instagram]
   
 <br />
@@ -85,5 +85,5 @@
 </details>
 
 [website]: https://kholdarboev.netlify.app/home
-[instagram]: https://www.instagram.com/andijan_07/
+[instagram]: https://www.instagram.com/andijan_07/ {:target="_blank" rel="noopener"}
 [linkedin]: https://linkedin.com/in/kholdarboev
