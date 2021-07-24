@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧:
 
-[<img src="https://media.giphy.com/media/MFJ9ctA5k58REmV7Af/giphy.gif" alt="Spotify Playing" width="320" />](https://open.spotify.com/playlist/4QRUxt16srvkyh7W08g3Wk)
+[<img src="https://media.giphy.com/media/dnoyd6rMvw29q/giphy.gif" alt="Spotify Playing" width="320" />](https://open.spotify.com/playlist/4QRUxt16srvkyh7W08g3Wk)
 
 ### Connect with me:
 
