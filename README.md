@@ -76,7 +76,7 @@
  </p>
 </details>
 
-<!--    [![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&&theme=xcode)](https://github.com/kholdarboev) -->
+   [![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&&theme=xcode)](https://github.com/kholdarboev)
 
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kholdarboev&&theme=tokyonight" alt="kholdarboev" /></p>
 
