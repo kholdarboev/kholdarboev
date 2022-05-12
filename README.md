@@ -1,14 +1,12 @@
- 
 ### Hi there, I'm Sardorbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## React Front-end developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
-
+## React Front-end developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>
 
 - 🌱 I’m currently learning React Native && Node.js && Next.js
 - 👨‍💻 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects 
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, sky-diving, snowboarding, soccer
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
 <br/>
@@ -22,7 +20,7 @@
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-  
+
 <br />
 <br />
 
@@ -41,7 +39,6 @@
 <img align="left" alt="Terminal"  src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
 <img align="left" alt="styledcomponent"  src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"/>
 
-
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 <br />
@@ -54,10 +51,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br />
 
- ---
+---
+
 ![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&theme=xcode)
+
  <details>
   <summary>:zap: Recent GitHub Activity</summary>
+ 
  
 <!--START_SECTION:activity-->
  
@@ -66,7 +66,6 @@
  
  
 </details>
-
 
 <br>
   <p align="center">
@@ -88,5 +87,5 @@
   </details>
 
 [website]: https://kholdarboev.netlify.app
-[instagram]: https://www.instagram.com/andijan_07/  
+[instagram]: https://www.instagram.com/andijan_07/
 [linkedin]: https://linkedin.com/in/kholdarboev
