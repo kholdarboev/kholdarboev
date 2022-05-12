@@ -39,8 +39,7 @@
 <img align="left" alt="Terminal"  src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
 <img align="left" alt="styledcomponent"  src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"/>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[TypeScript].svg" />
-
+ 
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 <br />
