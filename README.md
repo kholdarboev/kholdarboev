@@ -58,6 +58,8 @@
  <details>
   💻<summary>:zap: Recent GitHub Activity</summary>
 
+My recent activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
