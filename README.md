@@ -60,12 +60,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 CodeReviewed on [#99 Dashboard LineChart](https://github.com/kholdarboev/houzing/pull/99) in [houzing-Real estate](https://github.com/kholdarboev/houzing)
-2. 🎉 Merged PR [#1](https://github.com/mukhtorov/orderfood/tree/home) in [uzFoode-commerce/mainPage](https://github.com/mukhtorov/orderfood/tree/home)
-3. 🗣 Commented on [#17](https://github.com/mukhtorov/orderfood/tree/tagSidebar) in [sideBar-completed](https://github.com/mukhtorov/orderfood/tree/tagSidebar)
-4. 🗣 Commented on [#11](https://github.com/mukhtorov/orderfood) in [uzFood/e-commerce](https://github.com/mukhtorov/orderfood)
-5. ❌ Closed PR [#1](https://github.com/mukhtorov/wbba_web) in [Web-Brain_Academy/Ant-Design](https://github.com/mukhtorov/wbba_web)
-6. ❌ Issue [#1](https://github.com/microsoft/vscode/issues/125894) in [VS Code version: Code 1.56.2 Intellense issue](https://github.com/microsoft/vscode/issues/125894)
+ 
  
 <!--END_SECTION:activity-->
  
