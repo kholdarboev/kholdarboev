@@ -54,7 +54,7 @@
 <br />
 
  ---
- [![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&theme=xcode)
+![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&theme=xcode)
  <details>
   <summary>:zap: Recent GitHub Activity</summary>
  
