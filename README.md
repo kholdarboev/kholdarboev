@@ -70,7 +70,7 @@
  </p>
  
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact" alt="languages"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" />
  </p>
 
 
