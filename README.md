@@ -57,14 +57,11 @@
 
  <details>
   <summary>:zap: Recent GitHub Activity</summary>
- 
- 
+
 <!--START_SECTION:activity-->
- 
- 
+
 <!--END_SECTION:activity-->
- 
- 
+
 </details>
 
 <br>
@@ -72,18 +69,20 @@
 <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=kholdarboev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kholdarboev" />
  </p>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  📟<summary>:zap: GitHub Stats</summary>
 <p align="center">
  <img src="https://github-readme-stats-six-murex-58.vercel.app/api?username=kholdarboev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="kholdarboev"/> 
  </p>
 </details>
 
 <!--    [![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&&theme=xcode)](https://github.com/kholdarboev) -->
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kholdarboev&&theme=tokyonight" alt="kholdarboev" /></p>
+
+📈<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kholdarboev&&theme=tokyonight" alt="kholdarboev" /></p>
+
 <details>
- <summary>:zap:My Stats</summary>
+ 📟<summary>:zap:My Stats</summary>
   <img align="left" color="black" alt="kholdarboev's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
-   <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+  ⏱  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
   </details>
 
 [website]: https://kholdarboev.netlify.app
