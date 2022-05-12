@@ -65,9 +65,9 @@
 </details>
 
 <br>
-
- 
+ <details>
     <summary>:zap:GitHub Stats </summary> 
+  </details>
 <p align="center">
  <img src="https://github-readme-stats-six-murex-58.vercel.app/api?username=kholdarboev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="kholdarboev"/> 
  </p>
