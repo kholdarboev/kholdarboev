@@ -54,7 +54,7 @@
 <br />
 
  ---
- 
+ (https://activity-graph.herokuapp.com/graph?username=kholdarboev&theme=minimal)
  <details>
   <summary>:zap: Recent GitHub Activity</summary>
  
