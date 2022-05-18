@@ -76,11 +76,13 @@
    <p align="center">
 <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=kholdarboev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kholdarboev" />
  </p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact)](https://github.com/kholdarboev/github-readme-stats)
   <details>
   <summary>:zap:My Stats</summary>
   <img align="left" color="black" alt="kholdarboev's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
      <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
   </details>
+  
 
 [website]: https://kholdarboev.netlify.app
 [instagram]: https://www.instagram.com/andijan_07/
