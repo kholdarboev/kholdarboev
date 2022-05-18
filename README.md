@@ -76,7 +76,7 @@
    <p align="center">
 <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=kholdarboev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kholdarboev" />
  </p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact)](https://github.com/kholdarboev/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholdarboev&layout=compact)](https://github.com/kholdarboev/github-readme-stats)
   <details>
   <summary>:zap:My Stats</summary>
   <img align="left" color="black" alt="kholdarboev's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
