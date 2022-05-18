@@ -75,6 +75,7 @@
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kholdarboev&&theme=tokyonight" alt="kholdarboev" /></p>
    <p align="center">
 <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=kholdarboev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kholdarboev" />
+  <img [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/>
  </p>
  
   <details>
