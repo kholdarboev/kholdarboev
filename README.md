@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to travel, sky-diving, snowboarding, soccer
 
 <p>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" autoplay/>
   
 ### Spotify Playing 🎧:
 
