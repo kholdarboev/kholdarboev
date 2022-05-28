@@ -56,7 +56,8 @@
 ![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&theme=xcode)
 
 ---
-
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
