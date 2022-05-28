@@ -59,7 +59,7 @@
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:last_update_end-->
 
-# Recent Activity
+### Recent Activity
 
 [![starsBadge]][stargazers]
 [![forksBadge]][forks]
