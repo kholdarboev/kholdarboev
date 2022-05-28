@@ -16,6 +16,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Recent GitHub Activity - Profile Readme
       - uses: Readme-Workflows/recent-activity@v2.3.3
       
         env:
