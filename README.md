@@ -77,8 +77,8 @@
 ## :zap: Live Preview
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kholdarboev/kholdarboev/pull/1) in [kholdarboev/kholdarboev](https://github.com/kholdarboev/kholdarboev)
-2. 💪 Opened PR [#1](https://github.com/kholdarboev/kholdarboev/pull/1) in [kholdarboev/kholdarboev](https://github.com/kholdarboev/kholdarboev)
+1. 🎉 Merged PR [#2](https://github.com/kholdarboev/kholdarboev/pull/2) in [kholdarboev/kholdarboev](https://github.com/kholdarboev/kholdarboev)
+2. 💪 Opened PR [#2](https://github.com/kholdarboev/kholdarboev/pull/2) in [kholdarboev/kholdarboev](https://github.com/kholdarboev/kholdarboev)
  <!--END_SECTION:activity-->
 
 ---
