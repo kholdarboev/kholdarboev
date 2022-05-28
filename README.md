@@ -85,6 +85,7 @@
 
 <!-- ### My Recent Activity -->
 
+[![README with recent activity](https://github.com/kholdarboev/kholdarboev/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/kholdarboev/kholdarboev/actions/workflows/update-readme.yml)
 <!-- ### <summary> :zap: Recent GitHub Activity</summary> -->
 <br>
 <!--  <details>
