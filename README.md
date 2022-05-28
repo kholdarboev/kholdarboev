@@ -57,9 +57,9 @@
 
 ---
 
-### My Recent Activity
+<!-- ### My Recent Activity -->
 
-<summary> :zap: Recent GitHub Activity</summary>
+<!-- ### <summary> :zap: Recent GitHub Activity</summary> -->
 ### :zap: Recent Activity 
 <!--START_SECTION:activity-->
 <p>
