@@ -74,7 +74,7 @@
 
 [![discordBadge]][Discord]
 
-### Live Preview
+## Live Preview
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/kholdarboev/kholdarboev/pull/1) in [kholdarboev/kholdarboev](https://github.com/kholdarboev/kholdarboev)
