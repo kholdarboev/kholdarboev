@@ -59,12 +59,15 @@
 
 ### My Recent Activity
 
-<summary>:zap: Recent GitHub Activity</summary>
+<summary> :zap: Recent GitHub Activity</summary>
 ### :zap: Recent Activity 
 <!--START_SECTION:activity-->
+<p>
 1. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. ❗️ Opened issue [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+</p>
+
+ <!--END_SECTION:activity-->
 
 ---
 
