@@ -1,8 +1,8 @@
-name: GitHub - Activity - Readme
+
+
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+   - cron: "0 * * * *"   
 
 jobs:
   build:
@@ -11,6 +11,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Updated README with recent activity"
+          MAX_LINES: 10
