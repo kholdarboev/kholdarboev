@@ -57,24 +57,22 @@
 
 ---
 
-<!-- ### My Recent Activity -->
-
-<!-- ### <summary> :zap: Recent GitHub Activity</summary> -->
 ### :zap: Recent Activity 
+
 <!--START_SECTION:activity-->
-<p>
 1. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. ❗️ Opened issue [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-</p>
-
  <!--END_SECTION:activity-->
 
 ---
 
+<!-- ### My Recent Activity -->
+
+<!-- ### <summary> :zap: Recent GitHub Activity</summary> -->
 <br>
- <details>
+<!--  <details>
     <summary>:zap:GitHub Stats </summary> 
-  </details>  
+  </details>   -->
 <p align="center">
  <img src="https://github-readme-stats-six-murex-58.vercel.app/api?username=kholdarboev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="kholdarboev"/> 
  </p>
