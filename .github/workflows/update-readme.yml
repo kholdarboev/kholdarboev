@@ -13,11 +13,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
-    name: Recent GitHub Activity - Profile Readme
+#     name: Recent GitHub Activity - Profile Readme
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
-      - uses: Readme-Workflows/recent-activity@v2.3.3
+#       - uses: Readme-Workflows/recent-activity@v2.3.3
       
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
