@@ -58,6 +58,22 @@
 ---
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:last_update_end-->
+
+# Recent Activity
+
+[![starsBadge]][stargazers]
+[![forksBadge]][forks]
+[![issuesBadge]][issues]
+![sizeBadge]
+![codelinesBadge]
+[![codeOfConductBadge]][codeOfConduct]
+
+![uniqueUsersBadge]
+![totalrunsbadge]
+![successratebadge]
+
+[![discordBadge]][Discord]
+
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
