@@ -56,12 +56,12 @@
 ![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&theme=xcode)
 
 ### My Recent Activity
+
+ <details>
+   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
- <details>
-   <summary>:zap: Recent GitHub Activity</summary>
-
 </details>
 
 <br>
